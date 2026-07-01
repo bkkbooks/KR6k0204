@@ -1,0 +1,162 @@
+canonical_identifier: bkk:krp/KR6k0204/v1
+canonical_location: https://kanripo.org/bkk/KR6k0204/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 法界聖凡水陸勝會修齋儀軌
+  identifiers:
+    alt_id:
+    - X74n1497
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1497.xml
+    old_id: X74n1497
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0204_000.yaml, hash: 'sha256:5d9748b2e3cc8c1ad440e745d2097e8a87e5240877357426d11e32ce280361ad'}
+  - {seq: 1, filename: KR6k0204_001.yaml, hash: 'sha256:27119be53ee2e3f3c4feb629c8eef514a8ffbf4cfd2ef67e06e3c7be4a455f91'}
+  - {seq: 2, filename: KR6k0204_002.yaml, hash: 'sha256:94eb741d546cfa3a50842db98e38acc301643e9a6b64213b218ea4b62075d3f3'}
+  - {seq: 3, filename: KR6k0204_003.yaml, hash: 'sha256:58a381fbdf27bf6a97c0ed0cb92da8c421557f9e93dec0395271e23716a9429d'}
+  - {seq: 4, filename: KR6k0204_004.yaml, hash: 'sha256:49caeb666c084d0357bdbf7b70e6c39837d00e4cc1dc3957848f5ac7635a665e'}
+  - {seq: 5, filename: KR6k0204_005.yaml, hash: 'sha256:fae2ca505f029b9f2df5ca7bea7286242769b4d67ac352b31126647bb47dc615'}
+  - {seq: 6, filename: KR6k0204_006.yaml, hash: 'sha256:49c1b6d268e6b468860cea1f5af1f66080acb31d647e13f20b062b965e2f371b'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0204_001.markers.yaml, hash: 'sha256:82600a0229300b91c0b65f0cabd4dc4b368531453242183c231b24e9c866fb5f'}
+  - {seq: 2, role: markers, filename: assets/KR6k0204_002.markers.yaml, hash: 'sha256:0154ffdfcf65501fb6886db255b38d3accc877aacef158afb466c178827e0764'}
+  - {seq: 3, role: markers, filename: assets/KR6k0204_003.markers.yaml, hash: 'sha256:ba40156a4a3af8cf2083d8baedb6ac16ab51ad18752db99b35864ac73ae36110'}
+  - {seq: 4, role: markers, filename: assets/KR6k0204_004.markers.yaml, hash: 'sha256:75280d84be0c301cc1310430eb6f518e8242be6dd7eab13ddcf8f53496aa7089'}
+  - {seq: 5, role: markers, filename: assets/KR6k0204_005.markers.yaml, hash: 'sha256:dfcc741c404e0a1b544bd42b0f8b72b3a9090b3dabb36772c4edba39b330eef5'}
+  - {seq: 6, role: markers, filename: assets/KR6k0204_006.markers.yaml, hash: 'sha256:9380a0d4f82b7873e7a6feac7c52e7e31b2061ba0cf53fc61959379b8ac30709'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0204_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 6265
+  label: 法界聖凡水陸勝會修齋儀軌卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0204_X_001-mulu-1
+    span:
+    - body
+    - 72
+    - 72
+  label: 行晨朝開啟法事
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0204_X_001-mulu-2
+    span:
+    - body
+    - 4510
+    - 4510
+  label: 行發符法事
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0204_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 13314
+  label: 法界聖凡水陸勝會修齋儀軌卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0204_X_002-mulu-1
+    span:
+    - body
+    - 22
+    - 22
+  label: 行上堂召請法事
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0204_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 10474
+  label: 法界聖凡水陸勝會修齋儀軌卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0204_X_003-mulu-1
+    span:
+    - body
+    - 22
+    - 22
+  label: 行下堂召請法事
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0204_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 6084
+  label: 法界聖凡水陸勝會修齋儀軌卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6k0204_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 7668
+  label: 法界聖凡水陸勝會修齋儀軌卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0204_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 4284
+  label: 法界聖凡水陸勝會修齋儀軌卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0204_X_006-mulu-1
+    span:
+    - body
+    - 758
+    - 758
+  label: 補
+  type: mulu
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6k0204_X_006-mulu-2
+    span:
+    - body
+    - 3951
+    - 3951
+  label: No. 1497-A
+  type: mulu
+  level: 1
+hash: sha256:3307bac4cee2a1bfca3c97eb661e626f7c1ef0475eb7094afed57eba1ee597a4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
